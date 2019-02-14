@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\AN\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_MusicTree.1975697960.00" t="ExcludeRecursive" />
+    <e p="C:\Users\AN\Desktop\MusicTree" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_Scripts" t="Include">
+          <e p="bgMover.cs" t="Include" />
+          <e p="gameMusicContoller.cs" t="Include" />
+          <e p="rainController.cs" t="Include" />
+          <e p="RainMover.cs" t="Include" />
+          <e p="rubbishController.cs" t="Include" />
+          <e p="RubbishMover.cs" t="Include" />
+          <e p="TreeController.cs" t="Include" />
+        </e>
+        <e p="Koreographer" t="Include">
+          <e p="Demos" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="ColorAdjuster.cs" t="Include" />
+              <e p="CubeScaler.cs" t="Include" />
+              <e p="DemoControlsUI.cs" t="Include" />
+              <e p="EmitParticlesOnSpan.cs" t="Include" />
+              <e p="MusicalImpulse.cs" t="Include" />
+              <e p="TempoSwitch.cs" t="Include" />
+              <e p="UIMessageSetter.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ReadMe.txt" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="MusicTree.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
